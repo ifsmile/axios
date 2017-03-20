@@ -403,11 +403,3 @@ instance<span class="token punctuation">.</span>interceptors<span class="token p
 import * as axios from 'axios';
 axios.get('/user?ID=12345');
 </code></pre>
-
-<h2 id="doc-zh-credits">Credits</h2>
-
-<p>axios is heavily inspired by the <a href="https://docs.angularjs.org/api/ng/service/$http">$http service</a> provided in <a href="https://angularjs.org/">Angular</a>. Ultimately axios is an effort to provide a standalone <code>$http</code>-like service for use outside of Angular.</p>
-
-        </article>
-        
-      </div>
