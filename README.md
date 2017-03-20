@@ -408,21 +408,6 @@ axios.get('/user?ID=12345');
 
 <p>axios is heavily inspired by the <a href="https://docs.angularjs.org/api/ng/service/$http">$http service</a> provided in <a href="https://angularjs.org/">Angular</a>. Ultimately axios is an effort to provide a standalone <code>$http</code>-like service for use outside of Angular.</p>
 
-<h2 id="doc-zh-license">License</h2>
-
-<p>MIT</p>
-
         </article>
-        <div class="edit-footer">
-          <p>
-            版权声明：自由转载-非商用-非衍生-保持署名（识共享署名 4.0 国际许可协议）
-          </p>
-          <p>
-            觉得说明不够完善？有错误？或者你有额外的资源和文档（务必保证质量） <a class="open-login" href="/repo/mzabriskie/axios/readme">马上编辑完善</a> 
-          </p>
-          <p>
-            提示：并非必须翻译英文说明，某些库的说明比较简短，可以从官方的主页翻译必要的信息（大致用法，主要参数）
-          </p>
-        </div>
         
       </div>
